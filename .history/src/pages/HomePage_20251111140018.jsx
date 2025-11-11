@@ -1,6 +1,6 @@
 // src/pages/HomePage.jsx
 import ServiceCard from "../components/ServiceCard";
-import { services } from "../data/mockData";  // ← DOIT ÊTRE ICI
+import { services } from "../data/mockData";
 
 const icons = ["🔍","💰","🏗️","👥","📢","⚙️","📋","🤝","⚖️","💻","📊","📜","📚"];
 const bgColors = [
